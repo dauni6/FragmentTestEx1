@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentTestEx1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_frag">프래그먼트</string>
+    <string name="btn_next">NEXT</string>
+    <string name="text_activity">액티비티</string>
+    <string name="text_detail">디테일 프래그먼트</string>
+</resources>
